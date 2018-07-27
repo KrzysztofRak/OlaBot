@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Chomikuj.API
 {
-    public abstract class ChomikujFunctions : IChomikujFunctions
+    public interface IChomikujAPI
     {
 
     }

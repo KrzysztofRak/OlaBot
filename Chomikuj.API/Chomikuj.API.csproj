@@ -5,7 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="ChomikAPI.cs~RF398847e1.TMP" />
+    <None Remove="ChomikAPI.cs~RF39a70795.TMP" />
     <None Remove="ChomikujConnection.cs~RF38e70430.TMP" />
+    <None Remove="ChomikujConnection.cs~RF3982baad.TMP" />
+    <None Remove="DTO\GetFolderChildrenHtmlDTO.cs~RF39999969.TMP" />
   </ItemGroup>
 
   <ItemGroup>

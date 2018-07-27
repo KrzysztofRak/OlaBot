@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaBot.APP", "Ola Bot\OlaBot.APP.csproj", "{46B700AE-1F43-44E1-9745-9A24C717A5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chomikuj.API", "Chomikuj.API\Chomikuj.API.csproj", "{510A7A49-66DC-453A-AEC8-CEE033BCCACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chomikuj.API", "Chomikuj.API\Chomikuj.API.csproj", "{510A7A49-66DC-453A-AEC8-CEE033BCCACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.APP", "Test.APP\Test.APP.csproj", "{A8BF0774-A7D7-4E57-8D32-E7BA6E5D2C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.APP", "Test.APP\Test.APP.csproj", "{A8BF0774-A7D7-4E57-8D32-E7BA6E5D2C70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chomikuj.API
+namespace Chomikuj.API.Repositories
 {
-    public interface IChomikujFunctions
+    public interface IChomikujRepository
     {
-
     }
 }
